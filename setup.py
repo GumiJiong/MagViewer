@@ -7,7 +7,7 @@ setup(
     description = "ncl-MAGMOM viewer",
     long_description = "visulize the noncolinear magnetic moment for VASP",
     license = "MIT Licence",
-    url = "https://gumijiong.github.io/",
+    url = "https://github.com/GumiJiong/MagViewer",
     author = "GumiJiong",
     author_email = "Gaomouxu@outlook.com",
     packages = find_packages(),
